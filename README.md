@@ -9,7 +9,7 @@ I'm Julien, a Cyber Operations Software Engineer at Darktrace and a passionate M
 
 🥁 In my musical journey, I've been a professional drummer for over a decade, contributing to various song arrangements and recordings.
 
-🌱 Let's collaborate and innovate together! Feel free to reach out at [julienbeghain@gmail.com](mailto:julienbeghain@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/julien-beghain).
+🌱 Let's collaborate and innovate together! Feel free to reach out at [julienbeghain@gmail.com](mailto:contact@julienbeghain.mozmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/julien-beghain).
 
 My tech expertise includes:
 
