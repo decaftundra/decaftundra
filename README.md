@@ -1,5 +1,5 @@
 
-# Welcome to Julien Beghain's GitHub Repository! 👋
+# Welcome to Julien Beghain's GitHub Repository!
 
 ### Hi there 👋
 
