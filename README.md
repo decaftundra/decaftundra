@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Julien, a Cyber Operations Software Engineer at Darktrace and a passionate Musician. 
+I'm Julien, a Ful-Stack Engineer and a passionate Musician. 
 
 👨‍💻 As a developer, I enjoy building web applications and exploring innovative solutions. Check out my [Threads App clone](https://github.com/decaftundra/threads) and [music recommendation system](https://github.com/decaftundra/unlistened-vue) !
 
